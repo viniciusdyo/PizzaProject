@@ -1,0 +1,29 @@
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\appsettings.json
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.exe
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.deps.json
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.runtimeconfig.json
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.runtimeconfig.dev.json
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\ref\Pizza Project.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Pizza Project.pdb
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.AssemblyInfoInputs.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.AssemblyInfo.cs
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\staticwebassets\Pizza Project.StaticWebAssets.Manifest.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\staticwebassets\Pizza Project.StaticWebAssets.xml
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\scopedcss\bundle\Pizza Project.styles.css
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.RazorTargetAssemblyInfo.cache
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.csproj.CopyComplete
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\ref\Pizza Project.dll
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.pdb
+C:\Users\SANDORIOS\Desktop\Pizza Project\obj\Debug\net5.0\Pizza Project.genruntimeconfig.cache
